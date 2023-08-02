@@ -65,10 +65,3 @@ try:
         print('Dear %s, I am writing to you from a %s castle in an enchanted forest. I found myself here one day after going for a ride on a %s %s in %s. There are %s %s and %s %s here! In the %s there is a pool full of %s. I fall asleep each night on a %s of %s and dream of %s %s. It feels as though I have lived here for %d %s. I hope one day you can visit, although the only way to get here now is %s on a %s %s!!' % (proper_noun, adjective, color, animal, place, adjective2, magical_creature, adjective3, magical_creature2, room_in_a_house, noun, noun2, noun3, adjective4, noun4, number, m_of_time, verb, adjective5, noun5))
 except:
     print("Enter the number")
-
-
-
-
-    
- 
-    
